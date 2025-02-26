@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *yessertech*`
+ *Replied to you*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("*hi there im actually active *") ; return};
 
-      await   repondre("𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗 𝗜𝗦 𝗔𝗟𝗶𝗩𝗘 𝗔𝗟𝗟 𝗧𝗛𝗘 𝗧𝗜𝗠𝗘🤠");
+      await   repondre("I AM ALIVE BUT SORRY BCOZ YOUR GRANPA IS DEAD");
          repondre("don't do fake thinks :)")
      }
  } else {
