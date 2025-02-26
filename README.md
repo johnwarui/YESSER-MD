@@ -11,7 +11,7 @@
 
 </h1> 
 <p align="center">⚠️<b>𝕃
-YESSER MD</b>, ⚠️ </p>
+Thyjohnn </b>, ⚠️ </p>
 
 </p>
   <p align="center">
@@ -154,24 +154,7 @@ AUTO_REACT_MESSAGE=no
  📞 call the owner 
 
 For any issues or to stay updated, use the options below:  
-
-👇 Follow My WhatsApp Channel 🤝 
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30)  
-
-<br>
-
-👇 Contact Me on WhatsApp  🤝
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255621995482)  
-
-<br>
-
-👇 Subscribe to My Channel on YouTube 🤝 
-[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yessertech?si=mkU9LFHXIGXy1Gbv)  
-
-<br>
-
-👇 Follow My GitHub 🤝
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yassin994)  
+)  
 
 
 ## no love 💕 no stress
